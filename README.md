@@ -14,8 +14,10 @@
 
 
 ## About Me
-Pronouns: he/him
+Pronouns: he/him 
+
 BSc in Physics, Universidad de Chile (2023)
+
 I am always in search of a good, high quality result in everything that I care about.
 
 ## Research Interests
