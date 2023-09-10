@@ -1,6 +1,6 @@
 # Hi ! Amaru here :-)
 ## This is still in development !!!
-![Physics Image](https://example.com/physics-image.jpg) <!-- Replace with an actual image URL --> 
+![Kristina Armitage for Quanta Magazine](https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/08/Antipodal-Duality_2880x1620_Lede-scaled.jpg) <!-- Replace with an actual image URL --> 
 
 <!--
 - 🔭 I’m currently working on ...
