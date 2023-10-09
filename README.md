@@ -19,6 +19,8 @@ Pronouns: he/him
 
 BSc in Physics, Universidad de Chile (2023)
 
+Msc in Physics... \[loading...\]
+
 I am always in search of a good, high quality result in everything that I care about.
 
 ## Research Interests
@@ -29,11 +31,12 @@ I am always in search of a good, high quality result in everything that I care a
 
 ## I’m currently working on:
 
-## Projects
+### Three Level Atom interacting with quantized cavity fields
+  - Two and three level atom interacting with quantized cavity fields. With a strong approach to the use of the Wigner function.
+  - Using QuTip, SciPy
+    
+## Past projects
 
-### Wigner Function for Light States
-  - 2023
-  - 
 ### Coupled Duffing Oscillators (Private)
   - My first project (2022).
   - I solved the Duffing equation for coupled oscillators using RK4.
