@@ -17,9 +17,9 @@
 ## About Me
 Pronouns: he/him 
 
-BSc in Physics, Universidad de Chile (2019 - 2023)
+BSc in Physics, Universidad de Chile (2019 -- 2023)
 
-Msc in Physics Student at Universidad de Concepción (2024 - )
+MSc in Physics Student at Universidad de Concepción (2024 -- )
 
 I am always in search of a good, high quality result in everything that I care about.
 
