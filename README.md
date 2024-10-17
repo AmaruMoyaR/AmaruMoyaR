@@ -24,23 +24,28 @@ MSc in Physics Student at Universidad de Concepción (2024 -- )
 I am always in search of a good, high quality result in everything that I care about.
 
 ## Research Interests
-- Quantum Mechanics
+- Quantum Optics
 - Nonlinear Phenomena
-- Optics
+- Classical Optics
 - Light Matter Interactions
 
 ## I’m currently working on:
 
-### Three Level Atom interacting with quantized cavity fields
-  - Two and three level atom interacting with quantized cavity fields. With a strong approach to the use of the Wigner function.
-  - Using QuTip, SciPy
+### Manipulating Optical properties of Atomic Alkali Vapors 
+  - Experimental and theoretical approach to studying how light might affect the index of refraction of the medium, and characterizing the nonlinear effects.
+  - Using Python and Mathematica.
     
 ## Past projects
 
-### Coupled Duffing Oscillators (Private)
+### Coupled Duffing Oscillators
   - My first project (2022).
   - I solved the Duffing equation for coupled oscillators using RK4.
   - Studied phase diagrams and did parameter sweeps to create bifurcation diagrams and study the dynamics created.
+
+### Three Level Atom interacting with quantized cavity fields
+  - Two and three level atom interacting with quantized cavity fields. Studying it through the Wigner function. (2023)
+  - Using QuTip, SciPy
+    
 
 ## Contact
 
