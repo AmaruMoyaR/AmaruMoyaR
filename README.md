@@ -33,7 +33,7 @@ I am always in search of a good, high quality result in everything that I care a
 
 ### Manipulating Optical properties of Atomic Alkali Vapors 
   - Experimental and theoretical approach to studying how light might affect the index of refraction of the medium, and characterizing the nonlinear effects.
-  - Using Python and Mathematica.
+  - Using Python, Mathematica and Julia
     
 ## Past projects
 
