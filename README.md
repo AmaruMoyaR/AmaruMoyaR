@@ -1,4 +1,4 @@
-# Hi ! Amaru here :-)
+# Hello!
 ## This is still in development !!!
 ![Kristina Armitage for Quanta Magazine](https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/08/Antipodal-Duality_2880x1620_Lede-scaled.jpg) <!-- Replace with an actual image URL --> 
 
@@ -31,7 +31,12 @@ I am always in search of a good, high quality result in everything that I care a
 
 ## I’m currently working on:
 
-### Manipulating Optical properties of Atomic Alkali Vapors 
+### Studying Single Photon Sources in Atomic Mediums (2025)
+  - 6+ month internship at the University of Alberta
+  - (Experimental) Work with cold and warm Rubidium to generate single photons, studying correlations, and taking lots and lots of measurements.
+  - Designed an experimental setup for generating and measuring single photons and their characteristics (g2, biphoton waveforms, etc).
+
+### Manipulating Optical properties of Atomic Alkali Vapors (2024-2025)
   - Experimental and theoretical approach to studying how light might affect the index of refraction of the medium, and characterizing the nonlinear effects.
   - Using Python, Mathematica and Julia
     
