@@ -1,5 +1,5 @@
 # Hello!
-![Kristina Armitage for Quanta Magazine](https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/08/Antipodal-Duality_2880x1620_Lede-scaled.jpg) <!-- Replace with an actual image URL --> 
+### As you can see by the sheer amount of commits, I am urrently writing my thesis.
 
 <!--
 - 🔭 I’m currently working on ...
@@ -20,7 +20,7 @@ BSc in Physics, Universidad de Chile (2019 -- 2023)
 
 MSc in Physics Student at Universidad de Concepción (2024 -- )
 
-I am always in search of a good, high quality result in everything that I care about.
+I am currently fighting a vacuum chamber!
 
 ## Research Interests
 - Quantum Optics
