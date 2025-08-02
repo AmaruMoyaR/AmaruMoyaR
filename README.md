@@ -1,5 +1,5 @@
 # Hello!
-### As you can see by the sheer amount of commits, I am urrently writing my thesis.
+### As you can see by the sheer amount of commits, I am currently writing my thesis.
 
 <!--
 - 🔭 I’m currently working on ...
