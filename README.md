@@ -1,5 +1,4 @@
 # Hello!
-## This is still in development !!!
 ![Kristina Armitage for Quanta Magazine](https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/08/Antipodal-Duality_2880x1620_Lede-scaled.jpg) <!-- Replace with an actual image URL --> 
 
 <!--
