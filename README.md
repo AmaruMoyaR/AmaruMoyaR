@@ -20,7 +20,7 @@ BSc in Physics, Universidad de Chile (2019 -- 2023)
 
 MSc in Physics Student at Universidad de Concepción (2024 -- )
 
-IFighting with a vacuum chamber!
+Fighting with a vacuum chamber!
 
 ## Research Interests
 - Quantum Optics
